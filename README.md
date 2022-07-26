@@ -11,7 +11,7 @@ University project, explaining the RSA Algorithm and create a small python progr
 
 1. [Open](https://github.com/juanfranciscocis/Simple-RSA-Algorithm/blob/8feb6b29968e176fbf5b8ee09159c226c5d72980/ENCRIPTAMIENTO%20RSA.pdf) the "ENCRIPTAMIENTO RSA.pdf" file. 
 
-In this file you will find the full code and description of the RSA project.
+In this file you will find the full code and description of the RSA algorithm.
 
 ## I'm looking your CV (Curriculum Vitae), where can I find useful info about this project? 
 *** The description of the project is written in spanish ***
